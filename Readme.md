@@ -8,4 +8,4 @@
 - CSS
 - Vanilla JavaScript
 
-![GIF]('./demo.gif')
+![GIF](./demo.gif)
